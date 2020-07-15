@@ -1,0 +1,106 @@
+.carrosel{
+    width: 85vw;
+    text-align: center;
+    padding: 241px;
+    margin: -229px auto;
+
+}
+.navbar-nav .nav-link:hover {
+        background-color: rgba(255, 255, 255);
+        color: #4f1233b5!important;
+
+}
+@media only screen and (min-width: 920px) {
+    .navbar-expand-lg .navbar-collapse {
+        font-size: 30px;
+        justify-content: center;
+    
+    }
+}
+.navbar-expand-lg .navbar-collapse {
+    font-size: 30px;
+
+}
+
+@media only screen and (max-width: 520px) {
+    .carrosel{
+        width: 100vw!important;
+     
+        padding: 0px!important;
+        margin: 0px auto!important;
+    
+    }
+    .carousel {
+        position: relative;
+        margin-top: -331px;
+    }
+    .bg-dark{
+        background-color:  #4f1233b5!important;
+        z-index: 9999;
+     }
+  }
+  @media only screen and (max-width: 420px) {
+    .carrosel{
+        width: 100vw!important;
+     
+        padding: 0px!important;
+        margin: 0px auto!important;
+    
+    }
+    .carousel {
+        position: relative;
+        margin-top: -295px;
+    }
+    .bg-dark{
+        background-color:  #4f1233b5!important;
+        z-index: 9999;
+     }
+  }
+  @media only screen and (max-width: 370px) {
+    .carrosel{
+        width: 100vw!important;
+     
+        padding: 0px!important;
+        margin: 0px auto!important;
+    
+    }
+    .carousel {
+        position: relative;
+        margin-top: -246px;
+    }
+    .bg-dark{
+        background-color:  #4f1233b5!important;
+        z-index: 9999;
+     }
+  }
+  @media only screen and (max-width: 360px) {
+    .carrosel{
+        width: 100vw!important;
+     
+        padding: 0px!important;
+        margin: 0px auto!important;
+    
+    }
+    .carousel {
+        position: relative;
+        margin-top: -203px;
+    }
+    .bg-dark{
+        background-color:  #4f1233b5!important;
+        z-index: 9999;
+     }
+  }
+.carrosel img{
+    width: auto;
+}
+.bg-dark{
+   background-color:  #4f1233b5!important;
+
+}
+.navbar-nav {
+    text-align: center;
+}
+.nav header{
+    width: 100vw;
+    height: 13vh;
+}
