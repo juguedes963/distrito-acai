@@ -42,6 +42,7 @@ export default function NavbarHeader(eventClick) {
   )
 }
 function conteudoLabel(event) {
+  console.log(event)
   return (
     <p>
       {event}
